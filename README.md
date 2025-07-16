@@ -20,10 +20,4 @@ By working with this repository, you'll practice:
 
 ---
 
-## 🛠️ How to Get Started
-
-1. **Fork** this repository to your GitHub account.
-2. **Clone** it to your local machine:
-   ```bash
-   git clone https://github.com/your-username/git-practice.git
-   cd git-practice
+ 
